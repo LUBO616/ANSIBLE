@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="226" viewBox="0 0 1200 226" role="img" aria-label="Proyecto 001: Descubrimiento Linux. En desarrollo. Ping y facts validados.">
+<title>Proyecto 001 · Descubrimiento Linux</title>
+<rect x="1" y="1" width="1198" height="224" rx="20" fill="#101c30" stroke="#293a51"/>
+<rect x="1" y="25" width="5" height="176" rx="2" fill="#57d9f5"/>
+<text x="40" y="74" fill="#57d9f5" font-family="DejaVu Sans Mono,monospace" font-size="18">PROYECTO 001</text>
+<text x="38" y="130" fill="#f0f6ff" font-family="DejaVu Sans,Arial,sans-serif" font-size="43" font-weight="700">Descubrimiento Linux</text>
+<text x="41" y="164" fill="#a4b5ca" font-family="DejaVu Sans,Arial,sans-serif" font-size="18">Conocer el sistema antes de automatizar cambios.</text>
+<text x="41" y="197" fill="#79e7bd" font-family="DejaVu Sans,Arial,sans-serif" font-size="15">Hito actual: conexión SSH + recopilación de facts</text>
+<rect x="928" y="38" width="228" height="34" rx="17" fill="#30291f" stroke="#6f5636"/>
+<text x="1042" y="60" fill="#f4c784" text-anchor="middle" font-family="DejaVu Sans Mono,monospace" font-size="13">EN DESARROLLO</text>
+<path d="M1051 123 H1110 M1096 109 L1111 123 L1096 137" fill="none" stroke="#57d9f5" stroke-width="3"/>
+<text x="920" y="191" fill="#a4b5ca" font-family="DejaVu Sans Mono,monospace" font-size="14">EXPLORAR PROYECTO</text>
+</svg>
